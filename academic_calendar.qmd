@@ -1,0 +1,22 @@
+# Schedule of the Academic Year
+
+The academic year in Hungary starts in September and is built up of two semesters: autumn and spring semesters. Both semesters start with a registration period which is followed by the study period and an examination period afterwards. [Details in Hungarian.](https://btk.unideb.hu/tanevbeosztas)
+ 
+## I. (AUTUMN) SEMESTER {.unnumbered}
+
+- Registration period: 28 August -- 3 September, 2023 (Monday-Sunday)
+- Study period: 4 September -- 1 December, 2023 (13 weeks)
+- Reading week: 4 -- 8 December, 2023 (1 week)
+- Exam period: 
+    - 11 -- 22 December, 2023 (2 weeks)
+    - 8 January -- 9 February, 2024 (5 weeks)
+
+## II. (SPRING) SEMESTER {.unnumbered}
+
+- Registration period: 5 -- 11 February, 2024 (Monday-Sunday)
+- Study period: 12 February -- 17 May, 2024 (13 weeks)
+- Spring Break: 2 -- 5 April, 2024 (1 week)
+- Exam period: 
+    - 21 May -- 5 June, 2024 (7 weeks)
+
+

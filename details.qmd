@@ -1,0 +1,122 @@
+# Course details
+
+## Intro {#sec-01}
+
+
+- Readings:
+    - @Navarro2018 [3-12]
+
+
+![@Schweigert2021 pp. 58](image/the_steps_in_conducting_scientific_research.jpg){width=80%}
+
+
+![The course in the BA program](image/cs1_place.jpg){width=80%}
+
+## Files, directories, compressing {#sec-02}
+
+- Readings:
+    - @uoh2023 [1.1 Computer functionality](https://blogs.helsinki.fi/students-digital-skills/1-introduction-to-the-use-of-computers/1-1-computer-functionality/)
+    - @uoh2023 [1.2. Using files and programs](https://blogs.helsinki.fi/students-digital-skills/1-introduction-to-the-use-of-computers/1-2-files-and-directories/)
+- Problems
+    - [Lab 01](labs/CS_1_lab_01_files.html){target="_blank"}
+    
+    
+
+## RStudio reporting {#sec-03}
+
+- Readings:
+    - [Posit Cheatsheets](https://posit.co/resources/cheatsheets/): RStudio IDE
+    - [The Markdown Guide](https://www.markdownguide.org/): Getting Started, Markdown Cheat Sheet, Basic Syntax, Extended Syntax
+    - [Posit Cheatsheets](https://posit.co/resources/cheatsheets/): Publish and Share with Quarto
+    - [Tutorial: Hello, Quarto](https://quarto.org/docs/get-started/hello/rstudio.html)
+
+## TXT, CSV, Spreadsheets {#sec-04}
+
+- Readings:
+    - [What is Tabular Data?](https://www.statology.org/tabular-data/)
+    - @uoh2023 [P.3 Spreadsheets](https://blogs.helsinki.fi/students-digital-skills/advanced-studies-presenting-data/p-3-spreadsheets/)
+
+## Jamovi - Introduction {#sec-05}
+
+- Readings:
+    - @Navarro2018 [43-49]
+    - @Poulson2019
+        - Welcome
+        - Installing jamovi
+        - Navigating jamovi
+
+
+## Jamovi - Import data, Data conversion {#sec-06}
+
+- Readings:
+    - @Navarro2018 [49-54]
+    - @Poulson2019
+        - Sample data
+        - jamovi modules
+        - Entering data
+        - Importing data
+        - Variable types & labels
+
+
+
+## Jamovi - Data transformation {#sec-07}
+
+- Readings:
+    - @Navarro2018 [97-117]
+    - @Poulson2019
+        - Wrangling data: chapter overview
+        - Computing means
+        - Computing z-scores
+        - Transforming scores to categories
+        - Filtering cases
+    
+
+
+## Jamovi - Descriptive statistics I. {#sec-08}
+
+
+- Readings:
+    - @Navarro2018 [59-84]
+    - @Poulson2019
+        - Exploration: chapter overview
+        - Descriptive statistics
+    
+
+
+## Jamovi - Descriptive statistics II. {#sec-09}
+
+- Readings:
+    - @Navarro2018 [85-96]
+    - @Poulson2019 
+        - Histograms
+        - Density plots
+        - Box plots
+        - Violin plots
+        - Dot plots
+        - Bar plots
+        - Exporting tables & plots
+
+
+## JabRef - Bibliography management {#sec-10}
+
+- Readings:
+   - [JabRef: Getting started](https://docs.jabref.org/getting-started)
+
+
+## Word processing - Styles, TOC, Bibliography, APA7 {#sec-11}
+
+- Readings:
+   - @uoh2023 [P.2 Word processing](https://blogs.helsinki.fi/students-digital-skills/advanced-studies-presenting-data/p-2-word-processing/)
+   - [Study skills: APA7](https://www.newcastle.edu.au/library/study-skills/referencing/apa7)
+   - [Citation: About APA 7th ed.](https://libguides.csudh.edu/citation/apa-7)
+   
+## Presentation: PowerPoint {#sec-12}
+
+- Readings:
+   - @uoh2023 [P.4 Slide shows](https://blogs.helsinki.fi/students-digital-skills/advanced-studies-presenting-data/p-4-slide-shows/)
+
+## Project presentation {#sec-13}
+
+
+
+
