@@ -39,7 +39,7 @@
     "href": "syllabus.html#textbooks",
     "title": "1  Syllabus",
     "section": "1.5 Textbooks",
-    "text": "1.5 Textbooks\n\nRequired:\n\nUniversity of Helsinki (2023, p. 1 Introduction, Advanced studies: presenting data)\nNavarro & Foxcroft (2022, pp. 1–117)\nPoulson (2019, Getting started, Wrangling data, Exploration)\n\nOptional texts:\n\nCote et al. (2021, pp. 1–77)\nGordon & Bataineh (2022, pp. 1–109)"
+    "text": "1.5 Textbooks\n\nRequired:\n\nUniversity of Helsinki (2023, p. 1 Introduction, Advanced studies: presenting data)\nNavarro & Foxcroft (2022, pp. 1–117)\nPoulson (2019, Getting started, Wrangling data, Exploration)\n\nOptional texts:\n\nPajankar (2022)\nCote et al. (2021, pp. 1–77)\nGordon & Bataineh (2022, pp. 1–109)"
   },
   {
     "objectID": "syllabus.html#software",
@@ -53,7 +53,7 @@
     "href": "syllabus.html#prerequisites",
     "title": "1  Syllabus",
     "section": "1.7 Prerequisites",
-    "text": "1.7 Prerequisites\nNo prerequisite is required. Prior knowledge in computer literacy (word processing, spreadsheets, presentation) is recommended but not required.\n\n\n\n\nCote, L. R., Gordon, R., Randell, C. E., Schmitt, J., & Marvin, H. (2021). Introduction to statistics in the psychological sciences (Vol. 25.). https://irl.umsl.edu/oer/25\n\n\nGordon, E. S., & Bataineh, O. (2022). Introduction to applied statistics for psychology students. https://openlibrary-repo.ecampusontario.ca/jspui/bitstream/123456789/703/3/Introduction-to-Applied-Statistics-for-Psychology-Students-1590125696.pdf\n\n\nNavarro, D. J., & Foxcroft, D. R. (2022). Learning statistics with jamovi: A tutorial for psychology students and other beginners. Danielle J. Navarro; David R. Foxcroft. https://doi.org/10.24384/HGC3-7P15\n\n\nPoulson, B. (2019). Jamovi. https://datalab.cc/jamovi/\n\n\nUniversity of Helsinki. (2023). Student’s digital skills. https://blogs.helsinki.fi/students-digital-skills/"
+    "text": "1.7 Prerequisites\nNo prerequisite is required. Prior knowledge in computer literacy (word processing, spreadsheets, presentation) is recommended but not required.\n\n\n\n\nCote, L. R., Gordon, R., Randell, C. E., Schmitt, J., & Marvin, H. (2021). Introduction to statistics in the psychological sciences (Vol. 25.). https://irl.umsl.edu/oer/25\n\n\nGordon, E. S., & Bataineh, O. (2022). Introduction to applied statistics for psychology students. https://openlibrary-repo.ecampusontario.ca/jspui/bitstream/123456789/703/3/Introduction-to-Applied-Statistics-for-Psychology-Students-1590125696.pdf\n\n\nNavarro, D. J., & Foxcroft, D. R. (2022). Learning statistics with jamovi: A tutorial for psychology students and other beginners. Danielle J. Navarro; David R. Foxcroft. https://doi.org/10.24384/HGC3-7P15\n\n\nPajankar, V. D. P. (2022). Easy statistics with jamovi. Use of jamovi for beginners. SK Print House. https://www.researchgate.net/publication/368387691\n\n\nPoulson, B. (2019). Jamovi. https://datalab.cc/jamovi/\n\n\nUniversity of Helsinki. (2023). Student’s digital skills. https://blogs.helsinki.fi/students-digital-skills/"
   },
   {
     "objectID": "details.html#sec-01",
@@ -74,7 +74,7 @@
     "href": "details.html#sec-03",
     "title": "2  Course details",
     "section": "2.3 RStudio reporting",
-    "text": "2.3 RStudio reporting\n\nReadings:\n\nPosit Cheatsheets: RStudio IDE\nThe Markdown Guide: Getting Started, Markdown Cheat Sheet, Basic Syntax, Extended Syntax\nPosit Cheatsheets: Publish and Share with Quarto\nTutorial: Hello, Quarto"
+    "text": "2.3 RStudio reporting\n\nReadings:\n\nPosit Cheatsheets: RStudio IDE\nThe Markdown Guide: Getting Started, Markdown Cheat Sheet, Basic Syntax, Extended Syntax\nPosit Cheatsheets: Publish and Share with Quarto\nTutorial: Hello, Quarto\n\nProblems\n\nLab 02"
   },
   {
     "objectID": "details.html#sec-04",
@@ -172,6 +172,6 @@
     "href": "references.html",
     "title": "References",
     "section": "",
-    "text": "Cote, L. R., Gordon, R., Randell, C. E., Schmitt, J., & Marvin, H.\n(2021). Introduction to statistics in the psychological\nsciences (Vol. 25.). https://irl.umsl.edu/oer/25\n\n\nGordon, E. S., & Bataineh, O. (2022). Introduction to applied\nstatistics for psychology students. https://openlibrary-repo.ecampusontario.ca/jspui/bitstream/123456789/703/3/Introduction-to-Applied-Statistics-for-Psychology-Students-1590125696.pdf\n\n\nNavarro, D. J., & Foxcroft, D. R. (2022). Learning statistics\nwith jamovi: A tutorial for psychology students and other\nbeginners. Danielle J. Navarro; David R. Foxcroft. https://doi.org/10.24384/HGC3-7P15\n\n\nPoulson, B. (2019). Jamovi. https://datalab.cc/jamovi/\n\n\nSchweigert, W. A. S. (2021). Research methods in psychology: A\nhandbook (Fourth Edition). Waveland Press.\n\n\nUniversity of Helsinki. (2023). Student’s digital skills. https://blogs.helsinki.fi/students-digital-skills/"
+    "text": "Cote, L. R., Gordon, R., Randell, C. E., Schmitt, J., & Marvin, H.\n(2021). Introduction to statistics in the psychological\nsciences (Vol. 25.). https://irl.umsl.edu/oer/25\n\n\nGordon, E. S., & Bataineh, O. (2022). Introduction to applied\nstatistics for psychology students. https://openlibrary-repo.ecampusontario.ca/jspui/bitstream/123456789/703/3/Introduction-to-Applied-Statistics-for-Psychology-Students-1590125696.pdf\n\n\nNavarro, D. J., & Foxcroft, D. R. (2022). Learning statistics\nwith jamovi: A tutorial for psychology students and other\nbeginners. Danielle J. Navarro; David R. Foxcroft. https://doi.org/10.24384/HGC3-7P15\n\n\nPajankar, V. D. P. (2022). Easy statistics with jamovi. Use of\njamovi for beginners. SK Print House. https://www.researchgate.net/publication/368387691\n\n\nPoulson, B. (2019). Jamovi. https://datalab.cc/jamovi/\n\n\nSchweigert, W. A. S. (2021). Research methods in psychology: A\nhandbook (Fourth Edition). Waveland Press.\n\n\nUniversity of Helsinki. (2023). Student’s digital skills. https://blogs.helsinki.fi/students-digital-skills/"
   }
 ]
