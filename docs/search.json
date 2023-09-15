@@ -67,14 +67,14 @@
     "href": "details.html#sec-02",
     "title": "2  Course details",
     "section": "2.2 Files, directories, compressing",
-    "text": "2.2 Files, directories, compressing\n\nReadings:\n\nUniversity of Helsinki (2023) 1.1 Computer functionality\nUniversity of Helsinki (2023) 1.2. Using files and programs\n\nProblems\n\nLab 01"
+    "text": "2.2 Files, directories, compressing\n\nReadings:\n\nUniversity of Helsinki (2023) 1.1 Computer functionality\nUniversity of Helsinki (2023) 1.2. Using files and programs\n\nProblems\n\nLab 01\n\nQuestions\n\nWhat is the purpose of buying a computer?\nWhat problems does the computer solve?\nHow does a computer solve problems?\nWhat is the file?\nWhat is the purpose of the file?\nWhat is the directory\nWhat is the purpose of the directory?\nWhat is the structure of directories?\nWhat is packing and unpacking (or compressing and extraction)?\nWhat is the purpose of the packing?\n\nSkills\n\ncreating, renaming, coping, moving, deleting files and directories\ncompressing and extracting files and directories\ncreating file with special type (TXT, DOCX, XLSX, ODT, ODS, PDF, PPTX, PNG, JPG, OMV, BIB, etc.)\ntyping special characters (ampersand, angle brackets, apostrophe, asterisk, at sign, backslash, braces, brackets, caret, dollar sign, em dash, en dash, hyphen, backtic, tilde, parentheses, percent, pipe, slash, underscore, etc.)"
   },
   {
     "objectID": "details.html#sec-03",
     "href": "details.html#sec-03",
     "title": "2  Course details",
     "section": "2.3 RStudio reporting",
-    "text": "2.3 RStudio reporting\n\nReadings:\n\nPosit Cheatsheets: RStudio IDE\nThe Markdown Guide: Getting Started, Markdown Cheat Sheet, Basic Syntax, Extended Syntax\nPosit Cheatsheets: Publish and Share with Quarto\nTutorial: Hello, Quarto\n\nProblems\n\nLab 02"
+    "text": "2.3 RStudio reporting\n\nReadings:\n\nRStudio for the Total Beginner (only the first minute and a half)\nPosit Cheatsheets: RStudio IDE\nThe Markdown Guide: Getting Started, Markdown Cheat Sheet, Basic Syntax, Extended Syntax\nPosit Cheatsheets: Publish and Share with Quarto\nTutorial: Hello, Quarto\n\nProblems\n\nLab 02"
   },
   {
     "objectID": "details.html#sec-04",
